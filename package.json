@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "framer-motion": "^10.16.4",
+    "lightgallery": "^2.7.2",
+    "next": "14.0.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.0"
+    "react-icons": "^4.11.0",
+    "swiper": "^11.0.3"
   },
   "devDependencies": {
     "autoprefixer": "^10",
