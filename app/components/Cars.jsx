@@ -3,7 +3,7 @@ import ImageCard from "./ImageCard";
 import { cars } from "@/_data/db";
 const Cars = async () => {
   return (
-    <div>
+    <div className="max-w-[90vw] mx-auto">
       <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 items-center justify-around">
         {cars.map((car, id) => (
           <ImageCard

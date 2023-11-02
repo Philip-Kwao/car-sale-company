@@ -4,7 +4,7 @@ import Button from "./Button";
 
 const ImageCard = ({img, year, title_1, title_2, price, engine,id}) => {
   return (
-    <div className="cursor-pointer hover:rounded-xl hover:bg-blue-700 ease-in-out duration-500 group max-w-xl mx-auto my-10 text-center flex flex-col items-center justify-center min-h-[500px] hover:shadow-xl gap-1">
+    <div className="cursor-pointer hover:rounded-xl hover:bg-blue-700 ease-in-out duration-500 group max-w-lg mx-auto my-10 text-center flex flex-col items-center justify-center min-h-[500px] hover:shadow-xl gap-1">
       <Image
         src={img}
         width={400}
@@ -13,7 +13,7 @@ const ImageCard = ({img, year, title_1, title_2, price, engine,id}) => {
         alt={`${title_1} ${title_2}`}
         loading="lazy"
       />
-      <span className="mx-6 ease-in-out duration-300 group-hover:text-white flex items-start justify-between w-[500px]">
+      <span className="mx-6 ease-in-out duration-300 group-hover:text-white flex items-start justify-between lg:w-[500px]">
         <span className="flex flex-col items-start justify-center">
           <h4 className="font-bold text-2xl text-blue-700 group-hover:text-white flex items-center gap-x-2">
             <span className="">{title_1}</span>
