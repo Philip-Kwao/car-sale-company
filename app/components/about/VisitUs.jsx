@@ -28,7 +28,7 @@ const VisitUs = () => {
           </span>
           <Button title={"Send us a message"} textColor={"text-blue-700"} bgColor={"bg-white my-6"} link={"/contact"} />
         </div>
-        <div className="">
+        <div className="hidden lg:block">
           <Image src={Visit} width={500} height={500} alt="" quality={100} />
         </div>
       </div>
