@@ -7,7 +7,7 @@ import GetInTouch from './components/GetInTouch'
 
 export default function Home() {
   return (
-    <main className="min-h-screen">
+    <main className="min-h-screen overflow-hidden">
       <Slider />
       <CallToAction />
       <OurService />

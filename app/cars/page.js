@@ -3,7 +3,7 @@ import Cars from '../components/Cars'
 
 const page = () => {
   return (
-    <div>
+    <div className='overflow-hidden'>
       <Cars />
     </div>
   )
