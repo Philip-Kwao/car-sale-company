@@ -81,42 +81,23 @@ export const cars = [
     interior2: "",
     interior3: "",
     gallery: [
-      {
-        image1:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_01?$1550w$",
-      },
-      {
-        image2:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
-      },
-      {
-        image3:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
-      },
-      {
-        image4:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
-      },
-      {
-        image5:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
-      },
-      {
-        image6:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
-      },
-      {
-        image7:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
-      },
-      {
-        image8:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
-      },
-      {
-        image1:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
-      },
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_01?$1550w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
     ],
     image_link:
       "https://www.toyota.com/imgix/content/dam/toyota/jellies/max/2024/camry/xse/2548/2pt/36/5.png?fm=png&w=930&q=90",
@@ -137,42 +118,23 @@ export const cars = [
     interior2: "",
     interior3: "",
     gallery: [
-      {
-        image1:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_01?$1550w$",
-      },
-      {
-        image2:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
-      },
-      {
-        image3:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
-      },
-      {
-        image4:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
-      },
-      {
-        image5:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
-      },
-      {
-        image6:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
-      },
-      {
-        image7:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
-      },
-      {
-        image8:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
-      },
-      {
-        image1:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
-      },
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_01?$1550w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
     ],
     image_link:
       "https://www.motortrend.com/uploads/sites/10/2023/10/2024-honda-civic-sport-sedan-angular-front.png",
@@ -197,38 +159,22 @@ export const cars = [
         image1:
           "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_01?$1550w$",
       },
-      {
-        image2:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
-      },
-      {
-        image3:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
-      },
-      {
-        image4:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
-      },
-      {
-        image5:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
-      },
-      {
-        image6:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
-      },
-      {
-        image7:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
-      },
-      {
-        image8:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
-      },
-      {
-        image1:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
-      },
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
     ],
     image_link:
       "https://di-uploads-development.dealerinspire.com/gatorford/uploads/2023/04/xl-chrome.png",
@@ -253,38 +199,22 @@ export const cars = [
         image1:
           "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_01?$1550w$",
       },
-      {
-        image2:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
-      },
-      {
-        image3:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
-      },
-      {
-        image4:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
-      },
-      {
-        image5:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
-      },
-      {
-        image6:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
-      },
-      {
-        image7:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
-      },
-      {
-        image8:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
-      },
-      {
-        image1:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
-      },
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
     ],
     image_link:
       "https://www.motortrend.com/uploads/sites/10/2017/11/2013-chevrolet-malibu-eco-sedan-angular-front.png",
@@ -309,38 +239,22 @@ export const cars = [
         image1:
           "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_01?$1550w$",
       },
-      {
-        image2:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
-      },
-      {
-        image3:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
-      },
-      {
-        image4:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
-      },
-      {
-        image5:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
-      },
-      {
-        image6:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
-      },
-      {
-        image7:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
-      },
-      {
-        image8:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
-      },
-      {
-        image1:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
-      },
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
     ],
     image_link:
       "https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/all-models/3-series/gl/2023/navigation.png",
@@ -365,38 +279,22 @@ export const cars = [
         image1:
           "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_01?$1550w$",
       },
-      {
-        image2:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
-      },
-      {
-        image3:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
-      },
-      {
-        image4:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
-      },
-      {
-        image5:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
-      },
-      {
-        image6:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
-      },
-      {
-        image7:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
-      },
-      {
-        image8:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
-      },
-      {
-        image1:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
-      },
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
     ],
     image_link:
       "https://static-assets.tesla.com/configurator/compositor?&bkba_opt=1&view=STUD_3QTR&size=1400&model=m3&options=$APBS,$DV4W,$IPW1,$PPMR,$PRM31,$SC04,$MDL3,$W41B,$MT328,$CPF1,$RSF1,$CW03&crop=1400,850,300,130&",
@@ -421,38 +319,22 @@ export const cars = [
         image1:
           "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_01?$1550w$",
       },
-      {
-        image2:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
-      },
-      {
-        image3:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
-      },
-      {
-        image4:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
-      },
-      {
-        image5:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
-      },
-      {
-        image6:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
-      },
-      {
-        image7:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
-      },
-      {
-        image8:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
-      },
-      {
-        image1:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
-      },
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
     ],
     image_link:
       "https://d2ivfcfbdvj3sm.cloudfront.net/7fc965ab77efe6e0fa62e4ca1ea7673bb65b4757031e3d8e88cb10/stills_0640_png/MY2023/51668/51668_st0640_116.png",
@@ -477,38 +359,22 @@ export const cars = [
         image1:
           "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_01?$1550w$",
       },
-      {
-        image2:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
-      },
-      {
-        image3:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
-      },
-      {
-        image4:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
-      },
-      {
-        image5:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
-      },
-      {
-        image6:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
-      },
-      {
-        image7:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
-      },
-      {
-        image8:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
-      },
-      {
-        image1:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
-      },
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
     ],
     image_link:
       "https://vehicle-images.dealerinspire.com/stock-images/chrome/0a78f0d4d32870fd88030c631ea39b64.png",
@@ -533,38 +399,22 @@ export const cars = [
         image1:
           "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_01?$1550w$",
       },
-      {
-        image2:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
-      },
-      {
-        image3:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
-      },
-      {
-        image4:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
-      },
-      {
-        image5:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
-      },
-      {
-        image6:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
-      },
-      {
-        image7:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
-      },
-      {
-        image8:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
-      },
-      {
-        image1:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
-      },
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
     ],
     image_link:
       "https://s7d1.scene7.com/is/image/hyundai/2024-tucson-sel-portofino-gray-vehicle-browse-hero:Browse?fmt=webp-alpha",
@@ -589,38 +439,22 @@ export const cars = [
         image1:
           "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_01?$1550w$",
       },
-      {
-        image2:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
-      },
-      {
-        image3:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
-      },
-      {
-        image4:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
-      },
-      {
-        image5:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
-      },
-      {
-        image6:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
-      },
-      {
-        image7:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
-      },
-      {
-        image8:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
-      },
-      {
-        image1:
-          "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
-      },
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_01?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_03?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_04?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_gallery_ext_05?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_08?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_12?$1200w$",
+
+      "https://s7d1.scene7.com/is/image/scom/24_OBK_photos_int_05?$1200w$",
     ],
     image_link:
       "https://s7d1.scene7.com/is/image/scom/RDB_default_pass_scaled?$900p$",
@@ -671,45 +505,55 @@ export const gallery = [
 export const ourServices = [
   {
     title: "Discover Your Dream Car",
-    detail: "Explore a diverse selection of new and pre-owned vehicles. Find the perfect car that suits your needs and budget with the help of our expert team"
+    detail:
+      "Explore a diverse selection of new and pre-owned vehicles. Find the perfect car that suits your needs and budget with the help of our expert team",
   },
   {
     title: "Flexible Financing Solutions",
-    detail: "We offer a range of financing and leasing options to make your dream car more affordable. Our finance experts are here to assist you in securing the best deal."
+    detail:
+      "We offer a range of financing and leasing options to make your dream car more affordable. Our finance experts are here to assist you in securing the best deal.",
   },
   {
     title: "Upgrade with Ease",
-    detail: "Thinking about a new vehicle? We make it simple with our trade-in program. Get a fair assessment of your current vehicle's value and use it as credit towards your new car"
+    detail:
+      "Thinking about a new vehicle? We make it simple with our trade-in program. Get a fair assessment of your current vehicle's value and use it as credit towards your new car",
   },
   {
     title: "Vehicle Care & Maintenance",
-    detail: " Trust your car's care to us. Our service center ensures your vehicle stays in top condition with regular maintenance, repairs, and warranty services."
+    detail:
+      " Trust your car's care to us. Our service center ensures your vehicle stays in top condition with regular maintenance, repairs, and warranty services.",
   },
   {
     title: "Peace of Mind Protection",
-    detail: "Safeguard your investment with our extended warranties and insurance services. Drive with confidence knowing you have the added protection you need."
+    detail:
+      "Safeguard your investment with our extended warranties and insurance services. Drive with confidence knowing you have the added protection you need.",
   },
-]
+];
 
 export const chooseUs = [
   {
     title: "Quality Selection",
-    detail: "Our inventory features an extensive range of new and pre-owned vehicles from leading manufacturers. We meticulously curate our collection to ensure each car meets the highest standards of quality and performance.",
+    detail:
+      "Our inventory features an extensive range of new and pre-owned vehicles from leading manufacturers. We meticulously curate our collection to ensure each car meets the highest standards of quality and performance.",
   },
   {
     title: "Expertise",
-    detail: "Our team of automotive experts is passionate about cars. We have the knowledge and experience to assist you in making an informed decision, whether you're a seasoned car enthusiast or a first-time buyer.",
+    detail:
+      "Our team of automotive experts is passionate about cars. We have the knowledge and experience to assist you in making an informed decision, whether you're a seasoned car enthusiast or a first-time buyer.",
   },
   {
     title: "Customer-Centric Approach",
-    detail: "We put our customers first. Your satisfaction is our priority, and we're dedicated to exceeding your expectations. We offer a transparent and hassle-free car buying process.",
+    detail:
+      "We put our customers first. Your satisfaction is our priority, and we're dedicated to exceeding your expectations. We offer a transparent and hassle-free car buying process.",
   },
   {
     title: "Finance Solutions",
-    detail: "We understand that buying a car involves finances. Our finance department is ready to assist you with a range of financing options and lease plans to make your dream car more affordable.",
+    detail:
+      "We understand that buying a car involves finances. Our finance department is ready to assist you with a range of financing options and lease plans to make your dream car more affordable.",
   },
   {
     title: "Service & Maintenance",
-    detail: "Beyond the sale, we're here to support you with our state-of-the-art service center. Trust us with your car's maintenance, repairs, and warranty services.",
+    detail:
+      "Beyond the sale, we're here to support you with our state-of-the-art service center. Trust us with your car's maintenance, repairs, and warranty services.",
   },
-]
+];
